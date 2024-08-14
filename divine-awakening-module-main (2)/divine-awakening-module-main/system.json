@@ -39,6 +39,6 @@
       "email": "your.email@example.com"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/YourUsername/YourRepository/main/system.json",
+  "manifest": "https://raw.githubusercontent.com/Belgarum/divine/main/divine-awakening-module-main%20(2)/divine-awakening-module-main/system.json",
   "download": "https://github.com/YourUsername/YourRepository/archive/refs/tags/v0.1.0.zip"
 }
