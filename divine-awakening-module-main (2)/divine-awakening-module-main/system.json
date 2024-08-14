@@ -35,6 +35,39 @@
   "description": "A system for managing divine pantheon dynamics in Foundry VTT.",
   "authors": [
     {
+
+    }
+  ],
+
+}
+
+
+
+
+
+{
+  "id": "divine-awakening",
+  "title": "Divine Awakening",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "scripts/main.js",
+    "scripts/actor.js"
+  ],
+  "styles": [
+    "styles/style.css"
+  ],
+  "templates": [
+    "templates/character-sheet.html",
+    "templates/divine-challenge.html",
+    "templates/pantheon-dynamics-sheet.html"
+  ],
+  "description": "A system where players become newly ascended gods in a world that has lost its previous divine rulers.",
+  "authors": [
+    {
       "name": "Samuel Smith",
       "email": "samuel.belgarum@gmail.com"
     }
@@ -42,3 +75,4 @@
   "manifest": "https://raw.githubusercontent.com/Belgarum/divine/main/divine-awakening-module-main%20(2)/divine-awakening-module-main/system.json",
   "download": "https://github.com/Belgarum/divine/archive/refs/tags/1.zip"
 }
+
