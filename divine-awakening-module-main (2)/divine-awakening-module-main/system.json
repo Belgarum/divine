@@ -35,8 +35,8 @@
   "description": "A system for managing divine pantheon dynamics in Foundry VTT.",
   "authors": [
     {
-      "name": "Your Name",
-      "email": "your.email@example.com"
+      "name": "Samuel Smith",
+      "email": "samuel.belgarum@gmail.com"
     }
   ],
   "manifest": "https://raw.githubusercontent.com/Belgarum/divine/main/divine-awakening-module-main%20(2)/divine-awakening-module-main/system.json",
